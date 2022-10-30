@@ -1,9 +1,9 @@
 # Capstone
-한국항공대학교 소프트웨어학과 종합설계
+##한국항공대학교 소프트웨어학과 종합설계
 
 ![1](https://user-images.githubusercontent.com/55667589/198886994-8b6c2bf9-9f16-4c79-a645-498d76a6993b.jpg)
 
-<시연 화면>
+##시연화면
 
 웹페이지 메인 화면
 ![image](https://user-images.githubusercontent.com/55667589/146503819-25191981-f4b1-4c9d-a8a9-5370e9d69eff.png)
