@@ -1,8 +1,5 @@
 # Capstone Design(종합 설계)
 
-
-
-<image src = "https://user-images.githubusercontent.com/55667589/198888756-b8ef7c0a-310c-4209-8f0e-d407a5e9e84c.png" width="50%" height="50%">
 ## 시연화면
 
 ### 웹페이지 메인 화면
@@ -32,3 +29,4 @@
 Vpc안에 Public Subnet, Private Subnet으로 구성하였다.
 Ec2 인스턴스 퍼블릭 서브넷에 연결하고, 프라이빗 서브넷에는 RDS를 연결하였다. 
 밑에 있는 기존의 개발환경 그대로, EC2인스턴스를 생성하고 RDS를 사용하였다.
+<image src = "https://user-images.githubusercontent.com/55667589/198888756-b8ef7c0a-310c-4209-8f0e-d407a5e9e84c.png" width="50%" height="50%">
